@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>charactersprite.jpg</file>
+        <file>heart.jpg</file>
+        <file>house.jpg</file>
+        <file>sheep.jpg</file>
+        <file>wolf-6.jpg</file>
+    </qresource>
+</RCC>

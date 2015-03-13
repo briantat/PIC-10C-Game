@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/music">
+        <file alias="pokemon">Pokémon Red &amp; Blue Music- Viridian Forest, Diglett's Cave, and Seafoam Islands Theme.mp3</file>
+    </qresource>
+</RCC>
